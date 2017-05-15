@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connected</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_add_title">Add</string>
+    <string name="menu_deleteDatabase_title">Delete all</string>
+    <string name="add_friend_title">Add friend</string>
+    <string name="edit_friend_title">Edit Friend</string>
+    <string name="search_friends_title">Search friends</string>
+
+
+</resources>
